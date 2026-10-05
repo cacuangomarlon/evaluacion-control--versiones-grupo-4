@@ -3,7 +3,7 @@ Asignatura: Mantenimiento y Configuracion de Software
 Grupo: Grupo N
 Sistema: SIRELAB
 Tipo de cambio: mantenimiento correctivo y documental
-Estado: EN REVISION
-Actividad realizada: creacion del registro inicial
-Resultado: pendiente de pruebas
-Proxima accion: ejecutar las pruebas del cambio
+Estado: PROBADO
+Actividad realizada: Ejecucion de las pruebas planificadas
+Resultado: Validacion satisfactoria en los casos definidos
+Proxima accion: Solicitaar la aprobacion del cambio
